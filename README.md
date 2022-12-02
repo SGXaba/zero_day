@@ -1,1 +1,1 @@
-forget it
+This file is mandatory in projects
